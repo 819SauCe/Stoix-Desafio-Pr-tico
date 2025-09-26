@@ -1,3 +1,8 @@
 */node_modules
 *.log
 *.env
+data/*
+dist/*
+dist
+data
+node_modules
